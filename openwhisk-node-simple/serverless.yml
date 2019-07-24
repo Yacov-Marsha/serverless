@@ -33,4 +33,4 @@ plugins:
 
 custom:
     whitesource:
-       pathToConfig: serverless-whitesource\whitesource-fs-agent.config
+       pathToConfig: whitesource-fs-agent.config
