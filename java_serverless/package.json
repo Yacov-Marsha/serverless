@@ -1,0 +1,14 @@
+{
+  "name": "aws-java-simple-http-endpoint",
+  "version": "1.0.0",
+  "description": "<!-- title: 'AWS Simple HTTP Endpoint example in Java' description: 'This example demonstrates how to setup a simple HTTP GET endpoint using Java. Once you ping it, it will reply with the current time.' layout: Doc framework: v1 platform: AWS language: Java authorLink: 'https://github.com/DoWhileGeek' authorName: 'Joeseph Rodrigues' authorAvatar: 'https://avatars3.githubusercontent.com/u/1767769?v=4&s=140' --> # Simple HTTP Endpoint Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serverless-whitesource": "^1.0.39"
+  }
+}
